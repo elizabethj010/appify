@@ -3,3 +3,4 @@
 Notes and usage details for appify.
 - clarify the setup steps
 - fix a small wording issue
+- clarify the setup steps
